@@ -1,0 +1,23 @@
+load_actions:
+  - agnia_smart_digest.action.ai.extract_format
+  - agnia_smart_digest.action.ai.extract_platforms
+  - agnia_smart_digest.action.ai.extract_email_number
+  - agnia_smart_digest.action.ai.extract_article_number
+  - agnia_smart_digest.action.ai.extract_email_receiver
+  - agnia_smart_digest.action.ai.extract_email_subject
+  - agnia_smart_digest.action.ai.extract_email_text
+  - agnia_smart_digest.action.ai.generate_reminder_text
+  - agnia_smart_digest.action.ai.extract_reminder_datetime
+  - agnia_smart_digest.action.ai.extract_search_query
+  - agnia_smart_digest.action.backend.weather
+  - agnia_smart_digest.action.backend.emails
+  - agnia_smart_digest.action.backend.teamflame
+  - agnia_smart_digest.action.backend.clean_emails
+  - agnia_smart_digest.action.backend.summarize_emails
+  - agnia_smart_digest.action.backend.travel_time
+  - agnia_smart_digest.action.backend.news
+  - agnia_smart_digest.action.backend.moodle
+  - agnia_smart_digest.action.backend.send_email
+  - agnia_smart_digest.action.backend.schedule_reminder
+  - agnia_smart_digest.action.backend.ranking_emails
+  - agnia_smart_digest.action.backend.search_emails
