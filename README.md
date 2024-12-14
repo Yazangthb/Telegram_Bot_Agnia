@@ -1,4 +1,4 @@
-# agnia-smart-digest
+# agnia-smart-digest (original [repo](https://gitlab.pg.innopolis.university/a.kudryavtsev/agnia-smart-digests) for our team)
 
 Agnia Smart Digest is a smart assistant that can help you with your daily tasks.
 It can fetch emails, summarize emails, send emails, schedule reminders, fetch weather, travel time estimation, news monitoring, moodle deadlines, search emails, and more.
